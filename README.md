@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 📫 How to reach me **poshitagour121@gmail.com**
+- 📫 How to reach me **workwithposhita@gmail.com**
 
 - ⚡ Fun fact **Im a content creator**
 
