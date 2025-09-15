@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poshita!!</h1>
-<h3 align="center">Project Manager who likes people as much as projects — with a sense of humor that survives even deadlines </h3>
+<h3 align="center">Project Manager who likes people as much as projects, with a sense of humor that survives even deadlines </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poshitagour&label=Profile%20views&color=0e75b6&style=flat" alt="poshitagour" /> </p>
 
